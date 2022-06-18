@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: BackstageTest
+  name: backstage_demo
   description: |
     Backstage is an open-source developer portal. An example deployment of a Backstage application. Trying for test purpose of backstage. 
   links:
@@ -14,7 +14,7 @@ metadata:
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
   annotations:
-    github.com/project-slug: ziyashaw/BackstageTest
+    github.com/project-slug: ziyashaw/backstage_demo
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
 spec:
