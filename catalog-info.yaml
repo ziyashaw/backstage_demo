@@ -20,5 +20,5 @@ metadata:
     circleci.com/project-slug: github/ziyashaw/backstage_demo
 spec:
   type: library
-  owner: ziya
+  owner: user:ziyashaw
   lifecycle: experimental
